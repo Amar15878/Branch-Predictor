@@ -1,4 +1,4 @@
-#Branch Predictor Simulator
+# Branch Predictor Simulator
 
 Overview
 This project implements a cycle-accurate branch predictor simulator that supports three prediction schemes:
